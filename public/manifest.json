@@ -1,0 +1,15 @@
+{
+    "name": "Football Information",
+    "short_name": "Football",
+    "description": "Footbal Information is everywhere",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#0277bd",
+    "theme_color": "#0277bd",
+    "icons": [{
+        "src": "/icon.png",
+        "sizes": "512x512",
+        "type": "image/png"
+    }],
+    "gcm_sender_id": "909026761825"
+}
